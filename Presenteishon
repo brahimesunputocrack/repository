@@ -1,0 +1,21 @@
+edad = input("Dime tu edad =")
+nom = input("Di tu nombre =")
+sexo = input("Cual es tu sexo =")
+clase = input("Cual es tu clase =")
+input("Dale a Intro para presentacion")
+print("------------------------------------------------------")
+print("Me presento","me llamo",nom,",tengo",edad,",soy",sexo,"y voy a   1er bach", clase)
+
+input("Dale a Intro para presentacion")
+print("Resumen")
+print("------------------------------------------------------")
+print("Nombre:",nom)
+
+print("------------------------------------------------------")
+print("Edad:",edad)
+
+print("------------------------------------------------------")
+print("Sexo:",sexo)
+
+print("------------------------------------------------------")
+print("1er Bach:",clase)
